@@ -1,4 +1,3 @@
-![refind_planets](https://user-images.githubusercontent.com/73159111/116034150-aead8c80-a617-11eb-98cd-d8bb63717b43.jpg)
 # refind-planets
 
 A Refind bootloader theme with no distro logos, just planets.
