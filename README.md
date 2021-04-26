@@ -22,8 +22,5 @@ Many. Sorry, I have no idea where all these images came from. Most were edited w
 Hope you like!
 
 (p)
-<<<<<<< HEAD
 
 ![refind_planets](https://user-images.githubusercontent.com/73159111/116034150-aead8c80-a617-11eb-98cd-d8bb63717b43.jpg)
-=======
->>>>>>> 04d483cece310be4161d9e93a51b1829e97000eb
