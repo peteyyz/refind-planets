@@ -1,8 +1,8 @@
 # refind-planets
 
-A Refind bootloader theme with no distro logos, just planets.
+A rEFInd bootloader theme with no distro logos, just planets.
 
-Refind: https://www.rodsbooks.com/refind/
+rEFInd: https://www.rodsbooks.com/refind/
 
 Copy into your Refind /themes directory and add this to your refind.conf file:
 
