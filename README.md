@@ -17,7 +17,7 @@ Frequently Unasked Questions:
 * Sorry, I do not have a Mac. Just rename the image file of the most Mac-like planet.
 
 Acknowledgements:
-Many. Sorry, I have no idea where all these images came from.
+Many. Sorry, I have no idea where all these images came from. Most were edited with Gimp for consistency and lighting.
 
 Hope you like!
 
